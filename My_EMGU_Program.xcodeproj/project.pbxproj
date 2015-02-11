@@ -1,0 +1,67 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXGroup section */
+		4DAA81B31A8BE3CB00B94D13 = {
+			isa = PBXGroup;
+			children = (
+			);
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXProject section */
+		4DAA81B41A8BE3CB00B94D13 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastUpgradeCheck = 0600;
+			};
+			buildConfigurationList = 4DAA81B71A8BE3CB00B94D13 /* Build configuration list for PBXProject "My_EMGU_Program" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+			);
+			mainGroup = 4DAA81B31A8BE3CB00B94D13;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+			);
+		};
+/* End PBXProject section */
+
+/* Begin XCBuildConfiguration section */
+		4DAA81B81A8BE3CB00B94D13 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+			};
+			name = Debug;
+		};
+		4DAA81B91A8BE3CB00B94D13 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		4DAA81B71A8BE3CB00B94D13 /* Build configuration list for PBXProject "My_EMGU_Program" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				4DAA81B81A8BE3CB00B94D13 /* Debug */,
+				4DAA81B91A8BE3CB00B94D13 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 4DAA81B41A8BE3CB00B94D13 /* Project object */;
+}
